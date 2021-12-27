@@ -1,4 +1,4 @@
-# Physics 300, Fall 2019 
+# Physics 300, Fall 2019, Nicholas Munoz Project Repository
 ## Introduction to Physics and Scientific Computing 
 |Instructor| Prof. Qiang Zhu|
 |Email | qiang.zhu@unlv.edu|
