@@ -1,13 +1,9 @@
 # Physics 300, Fall 2019 
 ## Introduction to Physics and Scientific Computing 
-## Location: BPB-248
-## Schedule: Mon/Weds 2:30 - 3:45 pm
 |Instructor| Prof. Qiang Zhu|
-|--|-------------------------------|
 |Email | qiang.zhu@unlv.edu|
 |Website|http://www.physics.unlv.edu/~qzhu/|
-|Office| BPB 232|",
-|Office hours | Mon/Weds 9 - 10 am|
+
     
 ## Course Outline
 |Weeks | Subjects|
@@ -27,16 +23,7 @@
 |13    |Machine Learning III (database tools)|
 |14    |Machine Learning IV (online database)|
     
-## Prerequisites: PHYS 152, PHYS 152L or PHYS 180
-## Credit Hours: 3
-## Textbook: _Computational Physics, M. Newman (not required)_
-## Grade Distribution:
-|Items|Percentage|
-|-----------|----|
-|Attendance        |10%|
-|Problems and Quiz| 20%|
-|Projects | 40% |
-|Final Exam (oral) | 30% |
+
  
 ## Course Description
 This course is open to all students who are interested in scientific programming and data analysis. It will teach students to write programs to solve simple physics programs on the computer and to manage their codes via github. There will be weekly assignments and two projects during the semester, plus an oral exam in the end of semester. __Please bring your laptop to class. All the practices will be based on Python 3.__ Barring documentable emergencies or observance of a certifable regious holiday, all exams must be taken at the time and place specified.
